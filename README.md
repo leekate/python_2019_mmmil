@@ -5,7 +5,7 @@
 MMMIL(Multi-Modality Medical Imaging Lab)에서 겨울방학 기간에 **인공지능을 위한 프로그래밍 스터디** 를 함께 할 학우 여러분들을 찾습니다.
 
 
-!image[antigravity](./figures/antigravity.png)
+![antigravity](./figures/antigravity.png)
 
 
 ## 1. 주제
