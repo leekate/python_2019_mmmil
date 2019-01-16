@@ -8,6 +8,9 @@ MMMIL(Multi-Modality Medical Imaging Lab)에서 겨울방학 기간에 **인공�
 ![antigravity](./figures/antigravity.png)
 
 
+#### "Life is too short, You need Python."
+
+
 ## 1. 주제
    - Python & 유용한 Python 패키지
    - 프로그래밍을 위한 필수 도구
